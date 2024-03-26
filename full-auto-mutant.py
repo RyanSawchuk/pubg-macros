@@ -8,7 +8,7 @@ from time import sleep
 pdi.PAUSE = 0
 stop_key = '\\'
 toggle_key = ']'
-fire_key = 'k' # second fire key in game
+fire_key = '[' # second fire key in game
 active = False
 
 def run():
